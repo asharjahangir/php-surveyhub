@@ -23,6 +23,6 @@ This is a very basic survey builder, there are a few necassary text fields such 
 ![image](https://github.com/user-attachments/assets/e4a98ecd-591c-4c11-96ed-74aec02fc516)
 A simple browse page, this retrieves the surveys from the database and displays them and the user that created the survey, users can find the survey they want and fill it in. Displaying survey features was an idea being worked on therefore you will be able to find the chart-script and the results files too however those are not integrated into the system.
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/asharjahangir/surveyhub/blob/main/LICENSE) file for details.
 ## Supplementary information
 This project is not being actively developed. It was created in a short timespan therefore lacks certain features.
