@@ -21,7 +21,7 @@ Both Login and Sign up pages are similar and basic which can be easily expanded 
 This is a very basic survey builder, there are a few necassary text fields such as the title. The way questions input work is that you can input the question and however amount of options you want, and if you don't input any options the program automatically determines that question to be an "open-ended" question which will give it a text input field when the survey is published. The data is inserted to the database, the mySQL commands may differ depending on your table in the database.
 ### Browse
 ![image](https://github.com/user-attachments/assets/e4a98ecd-591c-4c11-96ed-74aec02fc516)
-A simple browse page, this retrieves the surveys from the database and displays them and the user that created the survey, users can find the survey they want and fill it in. Displaying survey features was an idea being worked on therefore you will be able to find the chart-script and the results files too however those are not integrated into the system.
+A simple browse page, this retrieves the surveys from the database and displays them along with the user that created the survey, users can find the survey they want and fill it in. Displaying survey results was an idea being worked on therefore you will be able to find the chart-script file and the results file too however those are not integrated into the system.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/asharjahangir/surveyhub/blob/main/LICENSE) file for details.
 ## Supplementary information
