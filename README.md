@@ -1,5 +1,5 @@
 # PHP SurveyHub
-A platform where you can build your own surveys as well as browser other people's surveys.
+A platform where you can Build your own surveys as well as Browse other people's surveys.
 ## Get Started
 No fancy plugin or framework is necassary. Just setup an environment for PHP web development and deploy.
 ## How does it work?
