@@ -2,6 +2,11 @@
 A platform where you can Build your own surveys as well as Browse other people's surveys.
 ## Get Started
 No fancy plugin or framework is necassary. Just setup an environment for PHP web development and deploy.
+### Database Integration
+You need to add your own database to store the user information and surveys, you may look at the mySQL statements and make your database around those parameters. Edit the followng PDO variables and add your own database.:
+```
+$pdo = new PDO(); // Add your own database in the brackets for example: 'mysql:host=YourDatabaseHost;port=YourPort;dbname=YourDatabaseName;...etc'
+```
 ## How does it work?
 There are 5 pages:
 * Home
